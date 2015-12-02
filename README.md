@@ -29,18 +29,8 @@ Add no arquivo o conteúdo do JSON recebido, exemplo:
 ```
 users.txt
 ```
-[
-    {
-	    "id": 1,
-	    "name": "Jairo",
-	    "age": 30
-    },
-    {
-        "id": 2,
-        "name": "Roberto",
-        "age": 31
-    }
-]
+{id  = 1, name = 'Jairo', age = 30},
+{id  = 2, name = 'Roberto', age = 31}
 ```
 
 #### Receber um PUT na url http://localhost/api/user/id
