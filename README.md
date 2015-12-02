@@ -43,4 +43,4 @@ O Webservice deve respeitar as boas praticas do padrão REST usando a rfc2616
 #### Bonus: 
  - Testes unitários.
  - Testes de API.
- - Ferramenta para documentar o código.
+ - Documentar o código e gerar documentação via alguma ferramenta.
