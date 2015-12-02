@@ -11,11 +11,11 @@ users.txt tem o conteúdo abaixo:
 ```
 retorna:
 ```
-[{
+{
 	"id": 1,
 	"name": "Jairo",
 	"age": 30
-}]
+}
 ```
 #### Receber um POST na url  http://localhost/api/user
 Add no arquivo o conteúdo do JSON recebido, exemplo:
