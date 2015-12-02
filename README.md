@@ -7,7 +7,7 @@ Lê um arquivo e retorna o seu contêudo no formato json, exemplo:
 
 users.txt tem o conteúdo abaixo:
 ```
-[{id  = 1, name = 'Jairo', age = 30}]
+{id  = 1, name = 'Jairo', age = 30}
 ```
 retorna:
 ```
