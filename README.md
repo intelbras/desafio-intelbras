@@ -39,6 +39,21 @@ Receber um JSON conforme spec do POST, gravar o 'novo conteúdo' no arquivo caso
 #### Receber um DELETE na url http://localhost/api/user/id
 excluir item associado ao id.
 
+#### Receber um GET na url http://localhost/api/user
+Listar todos os recursos dos arquivo.
+
+```
+[
+	{
+		id  = 1, name = 'Jairo', age = 30
+	},
+	{
+		id  = 2, name = 'Roberto', age = 31
+	}
+]
+```
+
+
 O Webservice deve respeitar as boas praticas do padrão REST usando a rfc2616
 #### Bonus: 
  - Testes unitários.
